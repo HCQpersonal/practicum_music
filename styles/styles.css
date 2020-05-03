@@ -77,7 +77,7 @@
 /* .tracks */
 
 .tracks__list-item:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .tracks__list-image {
@@ -90,6 +90,7 @@
     align-items: center;
     text-align: left;
     margin: 8px 25px 8px 0;
+    color: #0F1E36;
 }
 
 .tracks__list-song {
