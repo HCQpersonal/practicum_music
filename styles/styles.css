@@ -53,7 +53,7 @@
     white-space: nowrap;
 }
 
-.tracks {
+.tracks, .tracks:hover, .tracks:visited, .tracks:active {
     text-decoration: none;
 }
 
