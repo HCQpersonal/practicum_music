@@ -13,7 +13,7 @@
     margin: 0 auto;
 }
 .header-player {
-    background-image: url(./../images/slowdive_cover.jpg);
+    background-image: url('../images/slowdive_cover.jpg');
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,12 +39,12 @@
     background-repeat: no-repeat;
 }
 .button__back {
-    background-image: url(../images/left.svg);
+    background-image: url('../images/left.svg');
     width: 42px;
     height: 42px;
 }
 .button__more {
-    background-image: url(../images/more.svg);
+    background-image: url('../images/more.svg');
     width: 42px;
     height: 42px;
 }
