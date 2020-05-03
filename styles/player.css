@@ -145,7 +145,7 @@
     margin: 0 10px;
 }
 .progress__fill {
-    background-color: #F51E38;
+    background-color: maroon;
     height: 4px;
     width: 70%;
     display: block;
@@ -197,7 +197,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #F51E38;
+    background: maroon;
     width: 71px;
     height: 71px;
     border-radius: 50%;
