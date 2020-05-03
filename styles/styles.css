@@ -53,6 +53,10 @@
     white-space: nowrap;
 }
 
+.tracks {
+    text-decoration: none;
+}
+
 .tracks__list {
     margin-left: 31px;
     padding-left: 0;
