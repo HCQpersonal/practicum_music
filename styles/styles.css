@@ -128,7 +128,7 @@
 
 .bottom__nav {
     display: flex;
-    margin-top: 75px;
+    margin-top: 100px;
     position: relative;
 }
 
@@ -147,8 +147,8 @@
 
 .bottom__nav-icons {
     display: flex;
-    margin: 0;
-    padding: 0;
+    margin-top: -25px;
+    padding-bottom: 10px;
 }
 
 .bottom__nav-button:hover {
@@ -165,7 +165,7 @@
     width: 62px;
     height: 62px;
     justify-content: center;
-    margin: 5px 157px 0;
+    margin: 20px 157px 0;
     align-items: flex-end;
 }
 
@@ -184,8 +184,8 @@
     justify-content: center;
     mix-blend-mode: normal;
     opacity: 0.4;
-    background-color: #D3D3D3;;
-    margin: 8px 135px 5px;
+    background-color: #D3D3D3;
+    margin: -5px 135px 5px;
     border-radius: 2px;
     position: absolute;
 }
